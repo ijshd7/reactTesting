@@ -10,7 +10,6 @@ describe('Header', () => {
         <App />
       </MemoryRouter>
     );
-
     const link = screen.getByRole('link', { name: /how it works/i });
     screen.debug(link);
   });
