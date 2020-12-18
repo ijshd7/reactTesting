@@ -1,4 +1,4 @@
-React Testing Tutorial
+React Testing Tutorial with Jest/React-Testing-Library
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
